@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=onehux_test
+POSTGRES_USER=xLGfjxYgAJeOTMCcELpHPwwpgLnvsJsC
+POSTGRES_PASSWORD=aIpHSOUZJfOaGK5Pn1gXry5WMZGJRas1aee88AoaF30HZtpcUuPrGoYNKLdLcy6S
